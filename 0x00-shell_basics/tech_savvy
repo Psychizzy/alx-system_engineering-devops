@@ -1,0 +1,3 @@
+#!/bin/bash
+mkdir tech_sav
+echo "tech" > tech_sav/orange
