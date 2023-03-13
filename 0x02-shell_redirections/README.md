@@ -1,1 +1,1 @@
-display content
+display last four lines
