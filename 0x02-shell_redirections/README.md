@@ -1,1 +1,1 @@
-display a confuse simley
+Display the content of files
