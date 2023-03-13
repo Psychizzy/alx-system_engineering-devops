@@ -1,1 +1,1 @@
-print Hello, World
+display a confuse simley
