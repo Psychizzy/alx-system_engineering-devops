@@ -1,1 +1,1 @@
-shell script that creates file name
+save the current directory
