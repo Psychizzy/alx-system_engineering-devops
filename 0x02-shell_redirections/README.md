@@ -1,1 +1,1 @@
-delet js
+counting numbers of directort
