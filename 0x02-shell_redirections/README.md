@@ -1,1 +1,1 @@
-remove all letterc
+reverse
