@@ -1,1 +1,1 @@
-all users and their home directories
+all empty file and directories
