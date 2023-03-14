@@ -1,1 +1,1 @@
-bin
+letter only
