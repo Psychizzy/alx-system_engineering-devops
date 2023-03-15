@@ -1,1 +1,1 @@
-truknowledge
+divide and rule
